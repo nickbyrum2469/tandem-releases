@@ -1,0 +1,14 @@
+# A fresh new look
+New typeface (Inter) and a calmer, darker design across the whole app
+Studio and Chat now share one look: teal accents, soft dividers, rounded cards
+# Chat
+Cleaner sidebar: channels and rooms are proper lists with icons
+Voice rooms show who's inside with small mic and camera icons
+Clicking a voice room opens a lobby showing who's there, with a Join button
+"Invite friends" right at the top of every space; space menu under its name
+Messages are better aligned, with quieter timestamps
+Floating call controls and nicer video tiles in rooms
+New sign-in screen
+# Studio
+Scenes are a tidy list; move/delete buttons appear when you hover a scene
+Calmer status bar and docks
