@@ -1,0 +1,10 @@
+# Tandem cloud
+Tandem now has its own always-on server: sign in, create spaces and chat even when nobody's PC is hosting
+Everything over the internet is encrypted, and Tandem checks it's really talking to the right server
+# Invites
+"Invite friends" now copies an invite link; paste it into Tandem (on the sign-in screen or in Join space) to join that space, even on another server
+Your friend's Tandem signs in or creates an account on the right server for them, then joins the space
+# Calls
+Voice and video calls now connect even on home and mobile internet that blocks direct connections, through Tandem's call relay
+# Hosting on your own PC
+Hosting now opens your router's port automatically (UPnP) and closes it again when Tandem exits
