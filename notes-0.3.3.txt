@@ -1,0 +1,4 @@
+# Room video
+Fixed the green tint in Chat: your own tile now shows exactly the Studio's colours, so a screen share that shows itself stays clean instead of turning greener with each copy
+Your own tile now runs at the Studio's full 60 fps and is drawn the moment each frame is ready, so it follows your mouse live
+Friends' video is drawn the instant it arrives instead of waiting for the next screen refresh
