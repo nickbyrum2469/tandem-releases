@@ -1,0 +1,8 @@
+# Voice
+Fixed the static / digital crackle you heard when someone talked
+Voice now smooths over bumpy internet: late packets no longer cause gaps, and lost packets are rebuilt
+# Tandem cloud only
+Tandem now always uses Tandem cloud; no more servers on your own PC
+If you were on a server on your PC, Tandem moves you to the cloud automatically
+"Invite friends" copies a ready-to-send message with the download link and invite
+New here? Paste a friend's invite right on the main screen to join them
