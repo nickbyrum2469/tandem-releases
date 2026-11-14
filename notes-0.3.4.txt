@@ -1,0 +1,3 @@
+# Updates
+New versions now show up the moment you open Tandem (no more waiting a few minutes after a release)
+While Tandem is open it checks for updates every 10 minutes, so you won't miss one
