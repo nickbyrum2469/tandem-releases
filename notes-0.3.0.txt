@@ -1,0 +1,26 @@
+# Rooms
+Video now uses your graphics card (AMD, NVIDIA or Intel): sharp up to your full Studio size at 60 fps
+Much less delay: your own tile is instant, the graphics card encodes in about 40 ms, and friends' video always shows the newest picture instead of falling behind
+Colours in rooms now match the Studio
+"Sending…" button in a room: pick resolution, frame rate and quality of what friends see
+Video recovers from lost packets in a fraction of a second instead of freezing
+Calls reconnect by themselves after a Wi-Fi drop or if someone restarts Tandem
+# Voice
+Echo cancellation: friends no longer hear themselves when you use speakers
+Noise suppression and automatic volume
+Choose your microphone and speakers (Voice settings in the room, or the TANDEM menu)
+Push-to-talk on any key or mouse side button, works while you're in a game
+A soft sound when people join or leave your room
+# Studio
+Your webcam starts with the same setup as OBS (resolution, format, filters) if OBS has it
+Camera… settings: resolution, frame rate, format and your camera's own settings window
+Filters: Crop/Pad, Color Correction, Color Look (LUT), Chroma Key (green screen), Luma Key, Sharpen
+One source can be in many scenes: the same webcam is just "Webcam" in every scene, with different filters per scene
+Drag any handle to resize without stretching; Alt+drag to crop
+Change the canvas size even while you're on camera in a room
+# Everything else
+New app icon
+Problem reports: if something breaks, Tandem can send a report to your server's host (you choose)
+Safer servers: limits on password guessing, sign-ups and spam
+Updates only ever move forward (an older release is never offered)
+Lots of fixes from a full review of the app
