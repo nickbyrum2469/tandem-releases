@@ -1,0 +1,19 @@
+# Much lighter and faster
+Tandem now uses far less of your PC: about 80 MB of memory with Chat open (was 225 MB) and almost no CPU while idle (it used a whole processor core before)
+With the Studio running it idles around 180 MB, less than OBS on its own
+# Photos and files in chat
+Paste a screenshot or picture with Ctrl+V, drag files onto the window, or press + in the message box
+Pictures show right in the chat (click to view full size); other files show as a card you can download or open, up to 2 GB
+# Chat
+Reply to messages, @mention friends (highlighted for them), clickable links and emoji shortcodes like :fire:
+Cleaner message list with day dividers, hover actions and smoother scrolling
+# Import from OBS, now complete
+The Face Tracker, OBS scripts and hotkeys now come over too
+Your earlier import is cleared once on this update, so you can import fresh with everything included
+# Studio
+Cleaner Sources list, simpler Add source, and live level meters in the audio mixer
+Sharper scaling of sources, and web overlays drawn on your graphics card
+# Calls
+Video adapts more smoothly to your connection and drops to 1080p or 720p when it can't carry more (sharper than a blurry 1440p)
+Each friend's video shows connection bars; hover to see their resolution, frame rate and packet loss
+The Sending button turns amber when your connection is limiting what you send
