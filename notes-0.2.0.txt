@@ -1,0 +1,14 @@
+# Welcome to auto-updates
+- Tandem now updates itself. When a new version is out you'll see what changed and can update, skip, or wait.
+- Updates are signed: Tandem only installs files signed with the Tandem release key.
+# Voice & video rooms
+- Join a voice room and you'll hear everyone; turn your camera on to stream your Studio scene live.
+- Click a person's card to make it big; click again to go back to the grid.
+- Right-click someone's card to change their volume.
+- Rooms start with your camera and mic off, and everything turns off when you leave.
+# Studio
+- Drag edges to stretch one side, Alt-drag to crop, corners keep the shape (Shift to free it).
+- If you see a resize arrow, dragging resizes — it won't move the source by accident.
+- Pick a canvas size, including vertical 1080x1920.
+# Fixes
+- You stay logged in after closing Tandem.
