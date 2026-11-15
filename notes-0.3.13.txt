@@ -1,0 +1,9 @@
+# Much lighter calls
+Video is now sent, received and drawn on your graphics card: about a third of the processor it used before in a 1080p60 call
+Your friends' video is decoded by your graphics card (same picture, pixel for pixel)
+Tandem only sends your video as big as your friends actually show you, and switches up within a second when they make you bigger or full screen
+If your camera only gives 30 fps, Tandem sends 30 instead of repeating every frame (overlays that move every frame stay at 60)
+Nothing is sent while you're alone in a room
+In bigger calls, friends who show you small get a small stream while anyone who makes you big gets the full one
+# Lighter Studio
+When the Studio isn't on screen and nothing is recording, streaming or sending it, it stops drawing your scenes
