@@ -1,0 +1,10 @@
+# Share audio
+New button in the call bar: share what your PC is playing (a video, music, a game) with everyone in the room, even while your mic is muted
+Friends don't hear their own voices back, and shared audio is sent in music quality
+# Smoother Studio
+Web overlays and particle effects run at a smooth 60 fps again (they were stepping at around 20), using about half the processor
+# Fixes
+Tandem shows up in screenshots and screen shares again; hiding it from captures is now an option you can turn on in Studio settings
+The Sharp motion camera preset keeps white balance on auto, so your camera can't turn pink when the room's light changes
+Camera filters now apply to cameras shown inside nested scenes too (like your [Cam] scenes)
+Chat stays on the newest message when you resize the window, and a cleaner welcome screen
