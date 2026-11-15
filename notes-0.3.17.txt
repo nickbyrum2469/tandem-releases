@@ -1,0 +1,8 @@
+# Faster, steadier Studio
+Opening the Studio no longer freezes Tandem for up to a minute, and cameras start properly (Tandem was asking the camera questions while it was starting, which hung the app and could stop the camera)
+Smart focus only refocuses when the picture is clearly out of focus (it kept re-scanning, so the picture pulsed soft)
+Web page overlays in scenes you aren't showing stop running, saving memory and graphics card work
+Your hotkeys are listed in the Studio's Controls, with a way to remove one
+OBS imports are cleared once with this update (a backup is kept), so everyone can re-import fresh
+# Fixing problems without guessing
+Tandem sends its own logs to the Tandem server automatically: a minute after the Studio starts, after calls, and after a crash (never chats, passwords, logins or stream keys). Turn it off any time in the TANDEM menu
