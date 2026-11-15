@@ -1,0 +1,4 @@
+# The Studio works on every PC
+Tandem now brings its own Studio engine instead of using whatever OBS Studio is installed, so cameras, screen capture, web page overlays, filters and imports work the same for everyone (OBS doesn't need to be installed)
+The engine downloads once, the first time you open Tandem (27 MB, plus 124 MB if your scenes use web page overlays); Chat works while it does
+OBS imports bring over web page and display capture sources that some PCs couldn't before
