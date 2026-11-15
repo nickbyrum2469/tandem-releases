@@ -1,0 +1,5 @@
+# Smart focus for webcams
+Your camera's focus stays locked (no more hunting back and forth), and refocuses on you once, by itself, only when you go soft or move closer or further away
+"Focus on me" button in the Picture... window focuses on you right now and locks it
+The Picture... window shows what smart focus is doing; turn it off there if you like
+Uses almost nothing: about 0.1% of the processor and under 1 MB of memory, and nothing at all when it's off
