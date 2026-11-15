@@ -1,0 +1,8 @@
+# Studio
+Smoother, sharper webcam: when your camera can do 60 fps at your canvas size, Tandem uses that instead of a bigger size at 30 fps (much less motion blur)
+Imported scenes no longer show a copy of Tandem inside your screen capture: Tandem hides its own window from captures (turn it off in Studio settings if you want Tandem visible on stream)
+Everything you import from OBS can now be clicked, moved, resized, cropped, renamed, hidden, locked and given filters, including nested scenes and the Face Tracker's settings
+# Camera picture
+New Picture... button for webcams: exposure, gain, brightness, contrast, sharpness, white balance, anti-flicker and more, each with Auto, straight on the camera
+One-click "Sharp motion (low light)" preset: less grain and less smearing when you move
+Your camera settings are saved and put back every time the camera starts
