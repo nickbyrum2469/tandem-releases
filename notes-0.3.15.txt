@@ -1,0 +1,4 @@
+# Steadier calls
+Video uses far less of everyone's internet (it could reach 14 Mbps before and overwhelm a friend's connection, which also broke up the voice)
+When a connection struggles, video backs off right away so voice stays clear
+Video no longer restarts every few seconds when tile sizes change or you switch to the Studio tab
