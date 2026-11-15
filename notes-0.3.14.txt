@@ -1,0 +1,13 @@
+# Fixes
+Stopping Share audio no longer crashes Tandem
+Pictures in chat open when you click them again
+Save as can never delete a file you already had, even if saving fails
+Being in a room on one PC no longer opens the microphone on your other PC or phone
+Pictures whose message didn't go through are sent again, or shown as not delivered, instead of disappearing
+# New
+Your camera is ready as soon as Tandem opens, even in Chat: join a call with video without visiting the Studio
+Camera button at the top right (both tabs): switch your cameras off (light goes out) or back on
+Picture viewer: zoom with the mouse wheel or a double-click, drag to look around, and copy the picture (button, Ctrl+C, or right-click > Copy picture)
+# Smoother video
+Video timing is exact now (it slowly drifted before)
+The small stream for friends who show you small uses the right bitrate
