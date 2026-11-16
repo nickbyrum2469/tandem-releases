@@ -1,0 +1,49 @@
+# A whole new Tandem, after the concept art
+New navigation on the left: Chats, Live Rooms, Studio, Analytics, Creators and Discover, with New Chat and your card at the bottom
+Chats: Creator Pulse shows every voice room live at a glance (LIVE when a camera is on), and Messages lists every channel in all your spaces with the last message
+Conversations: a bold header with join-by-voice, join-with-camera and members buttons; your messages show a double tick once delivered
+The message box has Studio quick actions (switch scenes), a picture button and "Snap your Studio" to share what your Studio shows
+Live Rooms, Analytics (your activity, counted only on your PC), Creators (everyone in your spaces) and Discover (spaces, invites, themes) pages
+Ten colour themes and a living background with shimmering light sweeps (can be turned off)
+A Tandem shortcut on your desktop (made once; delete it and it stays gone)
+# Calls that hold up
+If the connection or the server blips, Tandem puts you back in your room by itself and the call carries on
+Calls keep working while Tandem is minimised: friends who join while you're in a game now connect to you
+Unplugging your headset, a Bluetooth drop or a new default device no longer leaves you silent or deaf: Tandem switches over by itself
+Minimised for a while, friends stop sending you video nobody is watching; it's back the moment you open Tandem
+Slow connections: video steps down to 540p and 360p instead of breaking up, and needs far less upload in a full room
+PCs without a graphics-card encoder now adapt too (to the connection and to how fast the PC can encode)
+If the graphics card falls behind (a game using it), Tandem catches the delay and restarts the encoder
+Dead connections are noticed twice as fast; stalled call setups are rebuilt automatically
+Sharper video: friends come in at 720p or more in a normal tile; bitrate follows the picture size
+Phones in voice-only or console mode get no video, saving their data
+Much lighter during calls: the window redraws only when something changes (it was 30-66 times a second)
+# Chat
+Unread dots and mention badges are remembered across restarts and reconnects
+Your message never silently vanishes: it shows "Sending…" and, if it can't go, "Not sent" with Retry, Edit and Delete
+Mentions, sounds and finished uploads work on every page and while minimised; messages arriving while you're in a game stay unread
+Messages starting with "/" (like /shrug) are sent as text; only Studio commands are taken as commands
+Deleting a channel asks first
+# Studio
+New Output setting: send and record at 1080p or 720p and 30 or 60 fps (new installs start at 1080p30, much lighter on laptops)
+Cameras switch off (light off) when nothing uses them, and no longer flash on at start with cameras off
+Web page overlays that aren't on screen stop running, saving memory and CPU
+Importing from OBS keeps your browser sources even on a fresh PC (they appear once the web engine is downloaded)
+Deleting a scene or source asks first (hold Shift to skip)
+The Studio engine download continues where it stopped and retries by itself, on any page
+Saving scenes no longer stutters while you drag things around
+Wolf Den overlays imported from OBS are drawn by Tandem itself: less than half the CPU, a third of the memory
+Imported OBS cameras keep their framing at any camera mode, in every scene; OBS imports are cleared once more so you can import again fresh
+If your camera is being used by another app, Tandem tells you instead of showing a blank picture
+# Privacy and security
+Your microphone and speakers are released a few seconds after you leave a room, and "share PC audio" never carries into the next room
+Private calls option (Voice settings): calls go through Tandem's relay so nobody sees your IP address
+Logins expire after 60 days unused, and signing out signs that login out everywhere
+Only people actually in your room can set up a call with you; many more protections against misbehaving servers and peers
+Pictures and files from the server can't be saved outside Tandem's own folder; more risky file types ask before opening
+# Reliability
+If this PC's graphics driver can't open Tandem's window, Tandem now says why and how to fix it (instead of not opening)
+Messages sent while the connection drops are sent again after reconnecting, never twice
+Your unsent text stays in the channel you typed it in
+Studio sources that can't load right now (a missing plugin or device) are kept instead of being erased
+Typing words that start with accented letters or emoji no longer breaks the chat
