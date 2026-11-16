@@ -1,0 +1,31 @@
+# A cleaner window
+Tandem's own title bar: minimise, full screen and close in Tandem's look; drag to move, double-click to fill the screen, F11 for full screen, resize from any edge
+The side panel folds to icons (button at the top left) and you can drag its edge wider or narrower; Tandem remembers
+In a call and looking at something else? "V1 · 2 inside · Back to call" at the top takes you straight back
+Hover over buttons, rooms and pages to see what they do
+Your Studio's screen capture no longer films Tandem itself (no more endless mirror of the window)
+# Calls that just work
+Joining a room never mutes you, and your camera comes on the way you last had it; no trip to the Studio needed
+Deafen mutes you too, and undeafening unmutes you again, but only if deafen is what muted you; you can unmute while staying deafened
+# Voice as good as Discord
+Headset mics that send low-quality sound (many wireless and Bluetooth headsets) are now converted cleanly instead of sounding metallic
+Automatic gain really works now (it was switched on but did nothing): quiet voices are levelled up
+Voice keeps its full range, with a filter for breathing, desk knocks and hum; voice is sent at 64 kbps like Discord
+Unplugging or changing your headset mid-call switches over by itself
+# Sharper, lighter video
+Video gets smaller within 2 seconds when someone shrinks your tile (was 10), and comes back at once when they enlarge it
+A friend's old 10 or 20 Mbps video setting goes back to Auto: far less to download, far smoother on both PCs
+After a size change, video starts at the right quality for that size instead of looking soft for a minute
+A call you're not looking at for a while gets smaller video, until you look again
+New "Friends' video: up to 720p / 1080p" choice in the video quality menu
+Heavy packet loss drops straight to a safe rate; calls with three or more people start smaller so nobody's connection collapses
+Fewer video restarts, so fewer glitches
+# Sounds
+New soft sounds for join, leave and mentions, plus mute, unmute, deafen, undeafen and "connection lost"
+Settings (click the Tandem logo) -> Sounds: Tandem's sounds, Jayton's sounds, or your own WAV/MP3 files
+# Studio
+Your camera runs only at the size it's shown at, and the Studio rests when your camera is off in a call
+Plugins you installed into OBS (shader filters, face tracker, freeze and more) are loaded from your OBS so imports keep them
+Imports say honestly what came over and what needs a plugin; nothing missing is thrown away
+Imported mics that don't exist on this PC use your default mic; local web overlays load; a webcam that fails to start is tried again
+Smart focus no longer keeps refocusing
