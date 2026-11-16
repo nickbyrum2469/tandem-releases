@@ -1,0 +1,10 @@
+# Better calls
+Video no longer drops to a lower resolution when nothing is wrong (at 1080p30 Tandem mistook its own normal bitrate for a bad connection)
+If a friend's connection reports stop coming in, Tandem no longer assumes everything is fine and pushes quality up
+# Imports
+Cameras keep their OBS framing on import (a camera Tandem already ran at a different resolution came in at the wrong size, cutting off the bottom)
+Imported OBS Lua scripts can run (the Studio engine now includes OBS's Lua scripting)
+OBS imports are cleared once more with this update (a backup is kept), so everyone can re-import cleanly
+# Privacy and reliability
+Automatic logs hide your Windows account name in every form
+The Studio engine only counts as ready when its files are really there; a failed download retries calmly
