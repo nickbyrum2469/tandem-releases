@@ -1,0 +1,8 @@
+# Updates look like the rest of Tandem
+The update screen is a clean card in Tandem's own look, with what's new grouped by topic and a progress bar while it downloads
+# See what friends are playing
+"Playing Apex Legends" under people's names, on call tiles and on the Creators page, like Discord
+Analytics has a Games section: your play time per game today, this week and all time, and who's playing right now
+Only the game's name is shared; turn it off any time: click the Tandem logo, "Show what I'm playing"
+# OBS import, once more
+OBS imports are cleared one more time so you can import again with the new plugin support (a backup is kept)
