@@ -1,0 +1,21 @@
+# Clean voice, like Discord
+Voices no longer sound echoey or "in a bathroom": on surround headset software (SteelSeries Sonar, JBL QuantumENGINE and others) Tandem used to send voices into all 8 channels; now front left and right only
+"Windows default" now means Windows' default communications device, like Discord (for example "SteelSeries Sonar - Chat" instead of the surround "Gaming" side); Voice settings shows which device that is
+Automatic volume is gentle now (it was far too strong and lifted room sound between words)
+Voice settings warns when your mic is already processed by other software (Sonar, NVIDIA Broadcast, Krisp...) so it isn't cleaned up twice
+New mic volume slider in Voice settings
+Ticking a box in Voice settings no longer cuts your audio for a moment
+Fewer choppy moments: a late packet is bridged instead of going silent, and the buffer adapts to your connection
+Voices playing through 44.1 kHz or 96 kHz speakers are converted cleanly; voice runs at Windows' audio priority
+# Settings in one place
+The gear next to your name opens Voice settings
+Click the Tandem logo: Voice settings and Studio settings at the top, then sounds, appearance and the rest
+# OBS import, done right
+OBS imports are cleared once more so everyone can import again (a backup is kept)
+After importing, Tandem checks every source is really running and lists anything that isn't; it only says "all good" when it is
+Importing the same setup again replaces it instead of making a second copy
+Web page overlays start reliably after an update (they could fail when the old Tandem still held their folder)
+Filters keep their OBS names, so plugins like the face tracker find what they're looking for
+A screen capture of a monitor you don't have falls back to your main screen; missing files are pointed out
+Imported camera crops fit the camera properly (a camera could end up cut off or squeezed)
+An audio device that's gone (Desktop Audio 2) stops being retried every few seconds
