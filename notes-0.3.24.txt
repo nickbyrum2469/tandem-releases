@@ -1,0 +1,11 @@
+# A fresh new look
+A calm new background like the concept art, with a slow, gentle glow (it holds still when Tandem is in the background, and follows Windows' "Show animations" setting)
+Tandem's own title bar buttons: minimise, maximise, a new full screen button and close, plus the side panel and menu buttons, all drawn to match the app
+Rounded window corners, glass panels, softer avatars and the same rounded shapes everywhere
+The Studio now uses your theme colours instead of grey
+# Smoother calls
+No more picture freezes when someone joins a call (it used to restart your video up to 6 times)
+Video that arrives in bursts now plays smoothly instead of skipping frames
+Cameras with a face tracker or zoom filter no longer run at full size when shown small (less CPU)
+Call logs are sent right after the call, and they now say whether a friend is connected directly or through the relay
+Test runs no longer send fake "closed unexpectedly" reports
