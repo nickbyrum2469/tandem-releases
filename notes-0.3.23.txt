@@ -1,0 +1,7 @@
+# Updates that always finish
+Fixed "The update didn't finish: Access is denied": an old Tandem from the last update could keep running hidden and block the next update (and hold your camera)
+Tandem now ends any old copy of itself that was left running, and always fully closes after an update (and whenever you close it)
+Old copies of Tandem elsewhere on your PC (an old download, one on the Desktop) are brought up to date too, so you never open an old version by accident
+Updates retry for a moment when OneDrive or antivirus briefly holds the file
+If Windows won't let Tandem change its own folder (OneDrive Desktop, ransomware protection, Program Files), the update installs to Tandem's own folder in your account instead, and your desktop shortcut and any old copy start the new one
+The log now says where Tandem runs from and exactly which step Windows refused
