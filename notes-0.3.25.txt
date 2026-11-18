@@ -1,0 +1,24 @@
+# Game mode
+While a game is running, Tandem steps back so the game gets your PC first: lower priority for its work and its graphics (your voice keeps its own fast lane)
+When a game covers Tandem, friends' video pauses (voice carries on) and comes back the moment you switch to Tandem; on another monitor it's lighter (360p, 30 fps)
+Your camera is sent at 720p 30 fps at most while you play, and the face tracker and background removal pause (never while recording or streaming); "Keep full quality while gaming" in the Sending menu turns this off
+The Studio runs at 30 fps while you play, and only opens cameras that a scene on screen or in the call shows
+Tandem no longer puts its graphics work ahead of your game (the Studio engine used to ask Windows for high graphics priority)
+Friends' video uses less memory and processor time on every PC
+Only one Tandem runs at a time: opening it again brings the open one to the front
+# Clearer voices
+A late piece of someone's voice is filled in smoothly instead of becoming a hole, and playback adjusts its speed very slightly to stay steady
+Echo cancellation is now Automatic: off on headsets (where it only thinned voices), on for speakers
+No more crackle when two people talk at once or someone is turned up: a soft limiter instead of a hard cut, and a "your microphone is too loud" hint
+Your voice only carries a backup copy when packets are actually being lost, so more of it goes to sound quality
+When Windows changes its default device (a controller connects), Tandem asks before switching instead of jumping to it
+Voice settings shows each microphone's quality, with a note for phone-quality ones; a mic with one silent side uses the other
+New "Strong" noise removal for keyboards and fans
+# Calls
+Sharing your PC's audio no longer sends your mic twice with SteelSeries Sonar (it now shares only Sonar's Game and Media channels)
+Right-click a friend: separate volume for their voice and for the audio they share, so you can turn their video down and still hear them talk
+# Studio
+"Hide Tandem from screen captures" is now Never for everyone (you can still pick Automatic or Always)
+OBS import: web page sources get a "Restart Tandem now" button instead of waiting for you to restart
+OBS import: a clip or picture with no file in OBS, and Wolf Den chat alerts waiting for an alert, are no longer called "not working"
+Call logs keep their important parts instead of being cut off
