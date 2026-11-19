@@ -1,0 +1,6 @@
+# Volumes that stay put
+The volume you set for each person (their voice and their screen audio) is remembered, after closing Tandem and after updates
+# Everyone at the same loudness
+New "Even out my voice level" (on): a quiet microphone gets one steady boost so friends hear you as loud as everyone else, without turning you up by hand. It only adjusts while you talk, slowly, so background noise isn't pumped up, and it remembers the right boost for each microphone
+New "Even out everyone's volume" (on): each friend's voice is brought to the same loudness as it arrives, also for friends still on an older Tandem; the volume you set for someone still applies on top
+Both are in Voice settings
