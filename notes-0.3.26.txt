@@ -1,0 +1,36 @@
+# Clearer video on weak connections
+Lost video packets are now re-sent and actually used, so a picture no longer breaks until a whole new one arrives
+No more storm of "send a whole new picture" requests: at most one every few seconds, sized to fit the connection
+Bitrate control that rides out short bursts of loss, never raises the bitrate while packets are being lost, and remembers what your upload can carry
+On a weak connection the frame rate drops before the picture gets blurry; calls start at 720p 30 fps and grow
+One friend with a bad connection no longer shrinks everyone's picture (they get the small stream)
+A PC that can't keep up asks for a smaller picture; voice is protected first when a connection struggles
+After a graphics driver reset, Tandem goes back to the graphics card by itself
+Tiles say why a picture is soft or frozen (their connection, protecting it, reconnecting)
+# Voice that survives
+Friends whose connection loses packets in bursts get each piece of voice carried twice, so it doesn't break up
+A 10-second dropout freezes the picture with a "reconnecting" mark and carries on instead of rebuilding the call
+The room notices within seconds when someone has really gone
+Voices and call sounds play on your headset's Chat side, so its game/chat dial works (SteelSeries Arctis with Sonar, JBL Quantum and similar)
+Microphones already cleaned by Sonar, NVIDIA Broadcast, Krisp and similar get Tandem's noise suppression and automatic volume switched off
+# Share audio with chosen people
+Share your PC's audio with everyone or pick people; right-click someone for "Share my screen audio with only them"
+Small circles on your tile show who's hearing it
+# Watching
+Right-click a person: Full screen (the whole monitor) or Pop out (their own window you can drag anywhere); double-click also goes full screen
+Scroll to zoom into whatever your mouse points at, drag to look around
+Pencil: draw on someone's screen to circle things; everyone gets their own colour and name, and drawings fade away
+# Layout
+Fold away Creator Pulse and Messages (button, the handle on the left, or Ctrl+B) so the chat or room gets bigger
+New "Tabs on top" option: move the left tabs into the title bar
+# Windows
+Hover Tandem on the taskbar for Mute, Deafen, Camera and Leave buttons; a red badge when you're muted
+Ctrl+Shift+M and Ctrl+Shift+D mute and deafen during calls, even inside a game (change them in Voice settings)
+Tray icon with Mute, Deafen, Leave and Quit
+# Lighter on your PC
+The Studio really rests when you're not using it, and stays light in calls when it isn't on screen
+When a game covers Tandem it's nearly off; beside a game friends' video is lighter
+Games that aren't in a store library are noticed too (any program filling the screen), plus an "I'm gaming" switch
+Duplicate imported OBS scenes and a second background blur are tidied away automatically (a backup is kept)
+A busy camera is retried for 30 seconds and Tandem says which app has it
+Interrupted updates restart cleanly instead of failing
