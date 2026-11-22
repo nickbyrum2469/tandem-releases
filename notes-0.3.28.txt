@@ -1,0 +1,11 @@
+# Mic threshold
+New "Only send my mic when I'm talking" (on): below the threshold your mic is silent, so breathing, keys, fans and friends' voices coming out of your headset don't go out
+It stays open a moment after you stop and fades in and out, so words aren't cut and it never sounds choppy
+The threshold is set automatically (just above your background noise, and a little higher while a friend talks), or drag the white mark on the mic meter in Voice settings to set it yourself
+The mic meter turns green while your mic is on
+# Cleaner, less sensitive mics
+"Even out my voice level" now boosts at most +12 dB (was +20) and only learns while you're talking
+It no longer runs together with automatic volume (the two fought and over-boosted mics); automatic volume is switched off once in its favour
+Fixes hearing your own voice back from a friend whose boosted mic picked up their headset
+# Headsets
+Voices go to your headset's chat side even when Windows numbers the headset ("3- Arctis Pro Wireless Game")
