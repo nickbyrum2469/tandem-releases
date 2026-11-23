@@ -1,0 +1,27 @@
+# New: like Discord
+Direct messages and group chats (click someone's name, then Message)
+Reactions with colour emoji, threads, and markdown (bold, italic, code, quotes, spoilers)
+Chat beside the call, real search across every message, and Windows notifications for DMs and mentions with per-channel mute and do not disturb
+Roles: owner, admin and member, with kick and ban; rename spaces and channels
+Profiles: picture, display name, status (online, idle, do not disturb, invisible), custom status and bio
+Soundboard: short clips played into the call, with volume and per-person mute
+Change your password and sign out other devices
+# Calls
+Video now goes through Tandem's own encoder: your picture reaches friends far sooner (about 3 ms in the encoder on AMD, was 70-130 ms)
+Share screen button: show a screen or window to the call without touching your Studio scenes
+Smarter video on weak connections: reacts to rising delay, paces packets, no more stuck low quality, no pointless restarts
+Voice: settings apply right away, the leveler no longer over-boosts, echo cancellation judged by where sound really plays, your mic and headset found even when Windows renumbers them, clean mute, and a friend reconnecting no longer stalls everyone's voice
+Redundant voice now really works for bursty connections
+# Lighter
+The Studio only starts when you use it, lets go of the microphone when resting, and sizes your camera to what's actually sent
+Tandem rests properly when idle and runs in efficiency mode in the background
+Game Capture uses the anti-cheat-safe hook; streaming shows real errors and stream health; your stream key is stored encrypted
+# Easier
+One Settings window for everything (gear, logo menu or Ctrl+,)
+Closing Tandem during a call asks first (or keeps it running in the tray)
+Better contrast on every theme, keyboard focus, screen-reader labels, and a text size setting
+Remembers the window's size and place; a mic test outside calls; tidier small-window layout
+# Safer
+Updates roll back by themselves if a new version won't start
+Messages the server refused can be sent again
+Sign-in can't be locked by strangers; old copies of Tandem are only updated with signed builds
